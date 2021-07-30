@@ -18,3 +18,8 @@ console.log(rect);
 rect.draw()
 rect.printPropertics()
 rect.height
+
+
+
+
+
